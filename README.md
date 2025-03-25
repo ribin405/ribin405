@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Abdul Vajid</h1>
+<h1 align="center">Hi 👋, I'm Muhammed Ribin KP</h1>
 <h3 align="center">Full stack developer from India</h3>
 
 
-- 💬 Ask me about **django**
+- 💬 Ask me about **html**
 
-- 📫 How to reach me **abdulvajidok@gmail.com**
+- 📫 How to reach me **mribin405@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
